@@ -1,0 +1,37 @@
+{
+  "name": "cleanbot",
+  "version": "1.0.0",
+  "description": "This Bot has all the Tips & Tricks for Cleaning!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/instafluff/CleanBot.git"
+  },
+  "keywords": [
+    "Instafluff",
+    "CleanBot",
+    "Clean",
+    "Tips",
+    "Tricks",
+    "Bot"
+  ],
+  "author": "Instafluff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/instafluff/CleanBot/issues"
+  },
+  "homepage": "https://github.com/instafluff/CleanBot#readme",
+  "dependencies": {
+    "comfy.js": "^1.0.13",
+    "comfyclock": "^1.0.0",
+    "comfydiscord": "^1.0.4",
+    "dotenv": "^8.2.0",
+    "gsheets": "^2.0.0",
+    "node-fetch": "^2.6.0",
+    "superagent": "^5.1.0",
+    "webwebweb": "^1.1.5"
+  }
+}
